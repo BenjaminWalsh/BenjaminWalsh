@@ -1,13 +1,12 @@
-### Hi I'm Ben 👋 
+### 👋 Hi there I'm Ben, a digital product designer, specialising in UX, performance, and accessibility.
 
-...a digital product designer, specialising in UX, performance, and accessibility.
 
-I've been designing and building fast, inclusive websites that offer a great user experience for fourteen years.
+I've been designing and building fast, inclusive websites that since 2005, that's 15 years!
 
-I live in Manchester, a thriving tech hub in the UK, with my <del>red and orange</del> purple and blue haired girlfriend, four taller than average children and our shitzhu Phoebe.
+I live in Manchester, a thriving tech hub in the UK, with my girlfriend, four taller than average children and our shit zhu Phoebe.
 
 - 👷🏻‍♂️ I’m currently working on a marketplace for fashion that'll benefit shoppers and the environment!
-- 🌱 I’m learning how to use JavaScript Promises in Firebase Cloud functions.
+- 🌱 I’m learning how to use async await JavaScript in Firebase Cloud functions.
 
 <!--
 **BenjaminWalsh/BenjaminWalsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
